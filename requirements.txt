@@ -5,6 +5,7 @@ python-dotenv
 PyPDF2
 langchain-groq
 langchain_community
+psycopg2-binary
 
 
 -e .

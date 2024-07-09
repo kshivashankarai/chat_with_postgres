@@ -5,6 +5,6 @@ setup(
     version='0.0.1',
     author='shiva shankar',
     author_email='ji.shiva1998@Gmail.com',
-    install_requires=["openai","langchain","streamlit","python-dotenv","PyPDF2","langchain-groq","langchain_community"],
+    install_requires=["openai","langchain","streamlit","python-dotenv","PyPDF2","langchain-groq","langchain_community","psycopg2-binary"],
     packages=find_packages()
 )
